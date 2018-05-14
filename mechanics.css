@@ -1,0 +1,27 @@
+.my-navbar{
+  background-color: transparent; !important;
+  opacity:0.5;
+  height: 60px;
+  font-size: 20px;
+  font-style: normal;
+  font-family:serif;
+
+}
+.active{
+  background-color: transparent;
+  color:black;
+}
+
+.my-hover a:hover {
+  background-color: transparent !important;
+  color: transparent; !important;
+}
+.heading1{
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 85px;
+  color: black;
+  text-align: center;
+}
+
+
