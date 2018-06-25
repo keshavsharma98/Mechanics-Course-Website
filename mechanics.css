@@ -1,18 +1,11 @@
 .my-navbar{
   background-color: #1e718f; !important;
   opacity:0.7;
-  height: 70px;
+  height: 85px;
   font-size: 25px;
   font-style: normal;
   font-family:serif;
-
 }
-/*.logo{
-  background-color: #1e718f;
-  color:black;
-  font-family:'Playfair Display',serif;
-}*/
-
 .my-hover a:hover {
   opacity: 0.5;
   background-color: transparent !important;
@@ -28,7 +21,7 @@
 .about{
   font-family:'Montserrat', sans-serif;
   text-align: center;
-  font-size:25px;
+  font-size:20px;
   color:black;
 }
 .heading2{
@@ -39,10 +32,31 @@
   color: black;
   text-align: center;
 }
+/*---course outcome----*/
 .co{
   font-family:'Montserrat', sans-serif;
-  font-size:25px;
+  font-size:20px;
   color:black;
 }
+/*---faculty----*/
+.card{border:.1px white;padding-top: 5px;height: 40vh;font-size: 15px;font-family: 'Montserrat', sans-serif}
+.card img{max-width: 20vh;max-height: 23vh;}
 
-
+/*----footer----*/
+.footer{
+   left: 0;
+   bottom: 0;
+   padding-top: 20px;
+   background-color: #1e718f; !important;
+   text-align: center;
+   font-family: courier;
+}
+.footer a{text-decoration: none;}
+#developer{
+  font-size: 15px;
+  color: black; 
+}
+.lnmiitlogo{
+  padding-top: 5px;
+  margin-top: 0px;
+}
