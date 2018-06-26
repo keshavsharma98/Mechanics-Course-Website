@@ -1,5 +1,19 @@
     /*----navbar ----*/
     .my-navbar{
+      background-image: url("images/mechanics2.jpg");
+      background-attachment: fixed;
+      background-position: all;
+      background-repeat: no-repeat;
+      background-size: cover;
+      opacity:1;
+      width: 100%;
+      height: 700px;
+      font-size: 25px;
+      font-style: normal;
+      font-family:'Raleway',serif;
+      color: black;
+    }
+    .my-navbar2{
       background-color: #1e718f; !important;
       opacity:1;
       height: 85px;
