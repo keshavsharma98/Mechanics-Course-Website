@@ -1,0 +1,65 @@
+    /*----navbar ----*/
+    .my-navbar{
+      background-color: #1e718f; !important;
+      opacity:1;
+      height: 85px;
+      font-size: 25px;
+      font-style: normal;
+      font-family:'Raleway',serif;
+      color: black;
+    }
+    .my-hover a:hover {
+      opacity: 0.5;
+      background-color: transparent !important;
+      color: transparent; !important;
+    }
+    /*---- mechanics----*/
+    .heading1{
+      font-family: 'Raleway', sans-serif;
+      letter-spacing: 1.5px;
+      font-size: 85px;
+      color: black;
+      text-align: center;
+    }
+    .about{
+      font-family:'Montserrat', sans-serif;
+      text-align: center;
+      font-size:20px;
+      color:black;
+    }
+    /*----about heading ----*/
+    .heading2{
+      font-family: 'Raleway', sans-serif;
+      letter-spacing: 1.5px;
+      font-size: 50px;
+      padding-top: 90px;
+      color: black;
+      text-align: center;
+    }
+    /*---course outcome----*/
+    .co{
+      font-family:'Montserrat', sans-serif;
+      font-size:20px;
+      color:black;
+    }
+    /*---faculty----*/
+    .card{border:.1px white;padding-top: 5px;height: 40vh;font-size: 15px;font-family: 'Montserrat', sans-serif}
+    .card img{max-width: 20vh;max-height: 23vh;}
+    /*---- footer----*/
+    .footer{
+       left: 0;
+       bottom: 0;
+       padding-top: 20px;
+       background-color: #1e718f; !important;
+       text-align: center;
+       font-family: courier;
+    }
+    .footer a{text-decoration: none;}
+    #developer{
+      font-size: 15px;
+      color: black; 
+    }
+    .lnmiitlogo{
+     padding-top: 5px;
+     margin-top: 0px;
+    }
